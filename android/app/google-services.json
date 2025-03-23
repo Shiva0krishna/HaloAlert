@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "441373098131",
+    "project_id": "haloalert-911f2",
+    "storage_bucket": "haloalert-911f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441373098131:android:9b9c453a196fe15f484d66",
+        "android_client_info": {
+          "package_name": "com.guidewire.haloalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441373098131-djc5di3c11fd6uequqfldfc9go1lebir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guidewire.haloalert",
+            "certificate_hash": "d36a65387532bfbfaca40e689ce7fc612526df01"
+          }
+        },
+        {
+          "client_id": "441373098131-07difc6in6boqls4hn5vjfd39rv0b64f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf2FliyKtk_-cQKu4j_YS0Wxw5lBRR-dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441373098131-07difc6in6boqls4hn5vjfd39rv0b64f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
